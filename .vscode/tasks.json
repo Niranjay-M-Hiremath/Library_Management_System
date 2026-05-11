@@ -1,0 +1,19 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Build and Run Library Project",
+            "type": "shell",
+            "command": "powershell",
+            "args": [
+                "-Command",
+                "g++ main.cpp Library.cpp -o library; if ($?) { .\\library.exe }"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": ["$gcc"]
+        }
+    ]
+}

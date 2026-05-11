@@ -1,0 +1,27 @@
+1
+Rahul Sharma
+110
+2
+Ananya Verma
+-1
+3
+Rohit Kumar
+105
+4
+Sneha Patil
+108
+5
+Arjun Reddy
+104
+6
+Priya Nair
+-1
+7
+Karan Mehta
+-1
+8
+Neha Joshi
+-1
+9
+IRA
+102

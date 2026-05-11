@@ -1,0 +1,40 @@
+101
+C++ Programming
+Bjarne Stroustrup
+1
+102
+Data Structures
+Mark Allen Weiss
+1
+103
+Computer Networks
+Andrew S. Tanenbaum
+0
+104
+Operating Systems
+Galvin
+1
+105
+Database Management Systems
+Raghu Ramakrishnan
+1
+106
+Digital Logic Design
+Morris Mano
+0
+107
+Artificial Intelligence
+Stuart Russell
+0
+108
+Software Engineering
+Ian Sommerville
+1
+109
+Python Programming
+Guido Van Rossum
+0
+110
+Object Oriented Programming
+Robert Lafore
+1
